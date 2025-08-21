@@ -1,0 +1,17 @@
+### 3) `CITATION.cff`
+```yaml
+cff-version: 1.2.0
+title: "Quantum-Inspired Cognitive Stack: Criticality, Binding MI, and Φq"
+authors:
+  - family-names: "Ferguson"
+    given-names: "Richard"
+date-released: "2025-08-21"
+version: "v5.4"
+repository-code: "https://github.com/Confidentrf/quantum-inspired-cognitive-stack"
+preferred-citation:
+  type: report
+  title: "Quantum-Inspired Cognitive Stack"
+  authors:
+    - family-names: "Ferguson"
+      given-names: "Richard"
+  year: 2025
